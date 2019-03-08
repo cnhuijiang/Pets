@@ -1,0 +1,11 @@
+/Users/jimmy/Projects/Pets/Pets/bin/Debug/netcoreapp2.1/Pets.deps.json
+/Users/jimmy/Projects/Pets/Pets/bin/Debug/netcoreapp2.1/Pets.runtimeconfig.json
+/Users/jimmy/Projects/Pets/Pets/bin/Debug/netcoreapp2.1/Pets.runtimeconfig.dev.json
+/Users/jimmy/Projects/Pets/Pets/bin/Debug/netcoreapp2.1/Pets.dll
+/Users/jimmy/Projects/Pets/Pets/bin/Debug/netcoreapp2.1/Pets.pdb
+/Users/jimmy/Projects/Pets/Pets/obj/Debug/netcoreapp2.1/Pets.csprojAssemblyReference.cache
+/Users/jimmy/Projects/Pets/Pets/obj/Debug/netcoreapp2.1/Pets.csproj.CoreCompileInputs.cache
+/Users/jimmy/Projects/Pets/Pets/obj/Debug/netcoreapp2.1/Pets.AssemblyInfoInputs.cache
+/Users/jimmy/Projects/Pets/Pets/obj/Debug/netcoreapp2.1/Pets.AssemblyInfo.cs
+/Users/jimmy/Projects/Pets/Pets/obj/Debug/netcoreapp2.1/Pets.dll
+/Users/jimmy/Projects/Pets/Pets/obj/Debug/netcoreapp2.1/Pets.pdb
